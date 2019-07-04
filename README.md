@@ -1,2 +1,7 @@
 # backyard-chicken-adventure
-Alexa skill for a simple adventure game, written with my 6-year old Elias
+
+by Ben Combee and Elias Combee
+
+Alexa skill for a simple adventure game
+
+invcocation name: backyard chicken adventure

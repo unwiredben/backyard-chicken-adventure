@@ -1,0 +1,68 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "backyard chicken adventure",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "CheckTreeIntent",
+                    "slots": [],
+                    "samples": [
+                        "tree",
+                        "check the tree",
+                        "look in the tree",
+                        "look at the tree",
+                        "check out the tree",
+                        "check in the tree",
+                        "climb the tree"
+                    ]
+                },
+                {
+                    "name": "CheckNeighborsBackyardIntent",
+                    "slots": [],
+                    "samples": [
+                        "neighbor",
+                        "backyard",
+                        "check the neighbor",
+                        "check the backyard",
+                        "look in the neighbors backyard",
+                        "look at the neighbor",
+                        "look at the backyard"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "CheckAbandonedLotIntent",
+                    "slots": [],
+                    "samples": [
+                        "spooky abandoned lot",
+                        "abandoned lot",
+                        "spooky lot",
+                        "look at the spooky lot",
+                        "look at the adandoned lot",
+                        "look at the lot",
+                        "look in the lot",
+                        "look in the abandoned lot",
+                        "check the lot",
+                        "check the adandoned lot"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
